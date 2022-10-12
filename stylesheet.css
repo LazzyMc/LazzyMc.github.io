@@ -1,17 +1,12 @@
 h2
-    {color: green}
+    {color: green; border: 4px dotted blue;}
 h1
-    {color: blue}
-body {
-  background-color: lightcyan;
-}
-p.light {
-  font-weight: lighter;
-}
+    {color: blue; border: 5px solid black;}
+body {background-color: lightcyan;}
 
-p.thick {
-  font-weight: bold;
-}
+p.light {font-weight: lighter;}
+
+p.thick {font-weight: bold;}
 
 p.thicker {
   font-weight: 900;
