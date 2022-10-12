@@ -1,10 +1,10 @@
 h2
 {color: green;
-border: 4px dotted blue;}
+border: 100px dotted blue;}
 
 h1
 {color: blue; 
-border: 5px solid black;
+border: 500px solid black;
 body {background-color: lightcyan;}
 
 p.light {font-weight: lighter;}
