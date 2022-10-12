@@ -5,7 +5,7 @@ border: 100px dotted blue;}
 h1
 {color: blue; 
 border: 500px solid black;
-body {background-color: lightcyan;}
+body: {background-color: lightcyan;}
 
 p.light {font-weight: lighter;}
 
