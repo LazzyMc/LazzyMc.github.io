@@ -4,7 +4,7 @@ border: 15px dotted blue;}
 
 h1
 {color: blue; 
-border: 10px solid black;
+  border: 10px solid black;}
 body: {background-color: lightcyan;}
 
 p.light {font-weight: lighter;}
@@ -15,6 +15,5 @@ p.thicker {
   font-weight: 900;
   background-color: pink;
 }
-
 body
-  {background-color: yellow;}
+{background-color: tan;}
